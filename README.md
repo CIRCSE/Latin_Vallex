@@ -1,4 +1,4 @@
-# New_Latin_Vallex
+# Latin Vallex 2.0
 
 Latin Vallex 2.0 (LV) works in connection with the Latin WordNet (LWN). Each Synset in LWN is paired with a LV Valency Frame.
 
