@@ -1,8 +1,9 @@
 # New_Latin_Vallex
 
-The New Latin Vallex (LV) works in connection with the Latin WordNet (LWN). Each Synset in LWN is paired with a LV Valency Frame.
+Latin Vallex 2.0 (LV) works in connection with the Latin WordNet (LWN). Each Synset in LWN is paired with a LV Valency Frame.
 
-The New_Latin_Vallex is a revision of the project Latin-VALLEX with DOI: 10.5281/zenodo.2549277, but it adopts a different approach: LV is intuition based, which means that for each sense listed for a lemma or hypolemma, there is a valency frame, established on the basis of the dictionary meaning listed for that lemma, and not on the wordform in context (although naturally dictionary meanings are drawn from textual evidence).
+
+Latin Vallex 2.0 is a revision of the project Latin-VALLEX with DOI: 10.5281/zenodo.2549277, but it adopts a different approach: LV is intuition based, which means that for each sense listed for a lemma or hypolemma, there is a valency frame, established on the basis of the dictionary meaning listed for that lemma, and not on the wordform in context (although naturally dictionary meanings are drawn from textual evidence).
 
 ## File structure
 
