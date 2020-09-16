@@ -23,3 +23,5 @@ The New Latin Vallex (LV) works in connection with the Latin WordNet (LWN). Each
 The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
 
 ## Citation
+
+[![DOI](https://zenodo.org/badge/167509050.svg)](https://zenodo.org/badge/latestdoi/167509050)
