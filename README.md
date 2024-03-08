@@ -20,7 +20,7 @@ Latin Vallex 2.0 is a revision of the project Latin-VALLEX with DOI: 10.5281/zen
 
 ## Credits
 
-- **Creator**: Eleonora Litta
+- **Creator**: Eleonora Litta, Giulia Pedonese
 - **Contributors**: Paolo Ruffolo, Marco Passarotti
 
 The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
